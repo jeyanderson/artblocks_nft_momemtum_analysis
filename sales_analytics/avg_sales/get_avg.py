@@ -10,7 +10,7 @@ csv_header = next(readdata)
 
 df_sig = pd.read_csv('334_sales.csv', header=None, skiprows=1, names=csv_header)
 df_sig['Date'] = df_sig['block_time'].map(lambda x: datetime.strptime(str(x), '%Y-%m-%d %H:%M:%S'))
-endDate = datetime(2022,7,13,17,30,0)
+endDate = datetime(2022,7,13,18,0,0)
 df_new=df_sig.loc[(df_sig['Date'] <= endDate)]
 
 for row in df_new['eth_price']:

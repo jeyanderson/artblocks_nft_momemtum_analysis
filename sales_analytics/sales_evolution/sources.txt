@@ -1,1 +1,2 @@
-downloading csv files at: https://dune.com/queries/160701/314169?Date_d83555=2022-06-29+00%3A00%3A00&ProjectID_n26d66=328
+downloading sales csv files at: https://dune.com/queries/160701/314169?Date_d83555=2022-06-29+00%3A00%3A00&ProjectID_n26d66=328
+downloading mint csv files at: https://etherscan.io/exportData?type=address&a=0xd94c7060808f3c876824e57e685702f3834d2e13
