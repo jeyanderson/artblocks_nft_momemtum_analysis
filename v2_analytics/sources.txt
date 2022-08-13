@@ -1,0 +1,2 @@
+../mint.csv from https://dune.com/queries/1166016
+../sales.csv from https://dune.com/queries/1166034

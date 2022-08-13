@@ -1,2 +1,2 @@
 # python_artblocks_analytics
-python artblocks analytics visualiser
+python artblocks analytics visualisers
