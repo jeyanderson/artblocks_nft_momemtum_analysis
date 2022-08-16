@@ -1,2 +1,2 @@
 ../mint.csv from https://dune.com/queries/1166016
-../sales.csv from https://dune.com/queries/1166034
+../sales.csv from https://dune.com/queries/549559/1031872?date_begin_d83555=2022-01-01+00%3A00%3A00&date_end_d83555=2022-08-16+00%3A00%3A00
